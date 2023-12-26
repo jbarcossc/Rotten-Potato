@@ -1,0 +1,8 @@
+@import '../App.scss';
+
+main {
+    background-color: #000;
+    background-image: linear-gradient(180deg, rgba(19,8,25,0.4) 0%, rgba(9,11,34,0.4) 70%);
+    height: 100vh;
+    padding: $navbar-height 0 0 0;
+}

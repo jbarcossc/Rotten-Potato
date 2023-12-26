@@ -1,0 +1,13 @@
+$navbar-height: 7em;
+$font: #ddd;
+
+* {
+  color: $font;
+  transition: 0.1s;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
